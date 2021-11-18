@@ -27,7 +27,7 @@ function rest_api_tutorial() {
     $labels = array(
         'name'               => esc_html__( 'Tutorials', 'rest_api_tutorial' ),
         'singular_name'      => esc_html__( 'Tutorial', 'rest_api_tutorial' ),
-        'add_new'            => esc_html__( 'Add new', 'rest_api_tutorial' ),
+        'add_new'            => esc_html__( 'Add new Tutorial', 'rest_api_tutorial' ),
         'add_new_item'       => esc_html__( 'Add new tutorial', 'rest_api_tutorial' ),
         'edit_item'          => esc_html__( 'Edit tutorial', 'rest_api_tutorial' ),
         'new_item'           => esc_html__( 'New tutorial', 'rest_api_tutorial' ),
